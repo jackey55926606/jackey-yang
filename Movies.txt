@@ -1,0 +1,63 @@
+Title: Inception
+Genre: Fiction
+Director Name: Christopher Nolan
+Studio: Warner Bros
+Year: 2010
+-----
+Title: Toy Story
+Genre: Animation
+Director Name: John Lasseter
+Studio: Pixar
+Year: 1995
+-----
+Title: Get Out
+Genre: Horror
+Director Name: Jordan Peele
+Studio: Universal Pictures
+Year: 2017
+-----
+Title: The Dark Knight
+Genre: Action
+Director Name: Christopher Nolan
+Studio: Warner Bros
+Year: 2008
+-----
+Title: Finding Nemo
+Genre: Animation
+Director Name: Andrew Stanton
+Director Name: Lee Unkrich
+Studio: Pixar
+Year: 2003
+-----
+Title: Forrest Gump
+Genre: Drama
+Director Name: Robert Zemeckis
+Studio: Paramount Pictures
+Year: 1994
+-----
+Title: Avengers: Endgame
+Genre: Action
+Director Name: Anthony Russo
+Director Name: Joe Russo
+Studio: Marvel Studios
+Year: 2019
+-----
+Title: The Hangover
+Genre: Comedy
+Director Name: Todd Phillips
+Studio: Warner Bros
+Year: 2009
+-----
+Title: Parasite
+Genre: Drama
+Director Name: Bong Joon-ho
+Studio: CJ Entertainment
+Year: 2019
+-----
+Title: Coco
+Genre: Animation
+Director Name: Lee Unkrich
+Director Name: Adrian Molina
+Studio: Pixar
+Year: 2017
+-----
